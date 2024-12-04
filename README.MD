@@ -1,6 +1,6 @@
 # DhammaBot: Your AI Companion for Buddhist Wisdom
 
-The DhammaBot Project is an AI-powered chatbot designed to assist users in exploring topics related to Buddhism, meditation, mindfulness, and spiritual growth. It utilizes** natural language processing (NLP) and machine learning** techniques to engage users in meaningful, interactive conversations.
+The DhammaBot Project is an AI-powered chatbot designed to assist users in exploring topics related to Buddhism, meditation, mindfulness, and spiritual growth. It utilizes **natural language processing (NLP) and machine learning** techniques to engage users in meaningful, interactive conversations.
 
 ## Key Features:
 
